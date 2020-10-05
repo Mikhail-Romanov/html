@@ -1,0 +1,721 @@
+
+
+.main{
+position: absolute;
+width: 1350px;
+height: 410px;
+left: 0px;
+top: 0px;
+
+background: url(Qg8DdV2zu40.jpg);
+
+
+
+background-repeat: no-repeat;
+border: none;
+background-bottom: 1px solid #fff;
+margin: 0;
+
+}
+.style{
+	width: 87.635px;
+	height: 16px;
+	position: absolute;
+	left: 90px;
+	top: 5px;
+
+	position: absolute;
+	
+	color:#FFFFFF;
+}
+.style1{
+	width:46.5px;
+	height:11px;
+	position: absolute;
+	left:333.5px;
+	top:5px;
+	font-family: Circe;
+	font-style: normal;
+	font-weight: normal;
+	font-size:8px;
+	line-height:67.5%;
+	text-align: center;
+	color: #FFFFFF;
+
+}
+.style2{
+	width: 43.5px;
+	position: absolute;
+	height: 11px;
+	left: 403.5px;
+	top: 5px;
+	font-family: Circe;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	line-height: 67.5%;
+	/* identical to box height, or 22px */
+	text-align: center;
+	color: #FFFFFF;
+}
+.style3{
+	width: 31.5px;
+	position: absolute;
+	height: 11px;
+	left: 470.5px;
+	top: 5px;
+	font-family: Circe;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	line-height: 67.5%;
+	text-align: center;
+	color: #FFFFFF;
+}
+.style4{
+	width: 43.5px;
+	position: absolute;
+	height: 11px;
+	left: 525.5px;
+	top: 5px;
+	font-family: Circe;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	line-height: 67.5%;
+	/* identical to box hyphens: eight, or 22px */
+	text-align: center;
+	/* other / white */
+	color: #FFFFFF;
+}
+.style5{
+	position: absolute;
+	width: 34px;
+	height: 11px;
+	left: 592.5px;
+	top: 5px;
+	/* p / 16px */
+	font-family: Circe;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	line-height: 100%;
+	/* identical to box height, or 22px */
+	text-align: center;
+	color: #FFFFFF;
+}
+.style6{
+	position: absolute;
+	width: 266.5px;
+	height: 34px;
+	left: 202.5px;
+	top: 210px;
+	font-family: Circe;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 140%;
+	color: #FFFFFF;
+}
+.w{
+position: absolute;
+width:210px;
+height: 37px;
+left: 201.5px;
+top: 150px;
+
+/* heading / h1 */
+
+font-family: Plumb;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 160%;
+/* or 102px */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+form{
+	position: absolute;
+	width: 34px;
+	height: 11px;
+	left: 1100px;
+	top: 5px;
+	/* p / 16px */
+	font-family: Circe;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	line-height: 67.5%;
+	/* identical to box height, or 22px */
+	text-align: center;
+	color: #FFFFFF;
+}
+
+
+.ber{
+	position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 202.5px;
+	top: 270px;
+
+/* p / 16px */
+
+	font-family: Circe;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 135%;
+/* identical to box height, or 22px */
+
+
+	color: #FFFFFF;
+}
+#square {
+
+font-family: Plumb;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 130%;
+/* or 27px */
+
+letter-spacing: -0.01em;
+
+color: #FFFFFF;
+position: absolute;
+width: 122.5px;
+height: 74px;
+left: 820px;
+top: 210px;
+
+/* Main / Blue */
+
+background: #2378FC;
+
+
+}
+#pop{
+
+font-family: Plumb;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 130%;
+/* or 27px */
+
+letter-spacing: -0.01em;
+
+color: #FFFFFF;
+
+position: absolute;
+width: 122.5px;
+height: 74px;
+left: 970px;
+top: 210px;
+
+/* Main / Blue */
+
+background: #30BCC9;
+}
+#po{
+
+font-family: Plumb;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 130%;
+/* or 27px */
+
+letter-spacing: -0.01em;
+
+color: #FFFFFF;
+
+position: absolute;
+width: 122.5px;
+height: 74px;
+left: 970px;
+top: 310px;
+
+
+/* Main / Blue */
+
+background: #F6404F;
+}
+
+#pore{
+
+font-family: Plumb;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 130%;
+/* or 27px */
+
+letter-spacing: -0.01em;
+
+color: #FFFFFF;
+
+position: absolute;
+width: 122.5px;
+height: 74px;
+left: 820px;
+top: 310px;
+
+
+/* Main / Blue */
+
+background: #FFC41E;
+}
+.ma{
+position: absolute;
+width: 1280px;
+height: 400px;
+left: 0px;
+top: 410px;
+
+/* Main / Blue */
+
+background: #2378FC;
+}
+
+.mer{
+	position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 202.5px;
+	top: 410px;
+
+/* p / 16px */
+
+font-family: Plumb;
+font-style: normal;
+font-weight: 500;
+font-size: 19px;
+line-height: 130%;
+/* identical to box height, or 39px */
+
+letter-spacing: -0.01em;
+
+color: #FFFFFF;
+
+}
+
+
+
+
+#vera{
+		position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 202.5px;
+	top: 440px;
+
+/* p / 16px */
+
+font-family: Circe;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 22px */
+
+text-decoration-line: underline;
+
+/* Main / Yellow */
+
+color: #FFC41E;
+}
+
+
+#vesa{
+		position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 202.5px;
+	top: 480px;
+
+/* p / 16px */
+
+font-family: Circe;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 22px */
+
+
+color: #FFFFFF;
+}
+#aise{
+	position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 202.5px;
+	top: 520px;
+
+/* p / 16px */
+
+font-family: Circe;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 22px */
+
+
+color: #FFFFFF;
+}
+
+#ai{
+	position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 202.5px;
+	top: 560px;
+
+/* p / 16px */
+
+font-family: Circe;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 22px */
+color: #FFFFFF;
+}
+
+#a{
+	position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 202.5px;
+	top: 600px;
+
+/* p / 16px */
+
+font-family: Circe;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 22px */
+color: #FFFFFF;
+}
+
+#af{
+	position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 202.5px;
+	top: 620px;
+
+/* p / 16px */
+
+font-family: Circe;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 22px */
+color: #FFFFFF;
+}
+
+#ais{
+	position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 202.5px;
+	top: 780px;
+
+/* p / 16px */
+
+font-family: Circe;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 22px */
+color: #FFFFFF;
+}
+
+
+
+
+
+.wer{
+	position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 400px;  
+	top: 410px;
+
+font-family: Plumb;
+font-style: normal;
+font-weight: 500;
+font-size: 19px;
+line-height: 130%;
+/* identical to box height, or 39px */
+
+letter-spacing: -0.01em;
+
+color: #FFFFFF;
+
+}
+#asdf{
+	position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 400px;  
+	top: 440px;
+
+font-family: Circe;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 22px */
+
+
+color: #FFFFFF;
+
+}
+#asd{
+	position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 400px;  
+	top: 470px;
+
+font-family: Circe;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 22px */
+
+
+color: #FFFFFF;
+
+}
+#as{
+	position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 400px;  
+	top: 535px;
+
+font-family: Circe;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 22px */
+
+
+color: #FFFFFF;
+
+}
+#aa{
+	position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 400px;  
+	top: 580px;
+
+font-family: Circe;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 22px */
+
+
+color: #FFFFFF;
+
+}
+
+
+
+
+.ver{
+	position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 800px;  
+	top: 410px;
+
+font-family: Plumb;
+font-style: normal;
+font-weight: 500;
+font-size: 19px;
+line-height: 130%;
+/* identical to box height, or 39px */
+
+letter-spacing: -0.01em;
+
+color: #FFFFFF;
+}
+
+#zxc{
+	position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 800px;  
+	top: 450px;
+
+
+font-family: Circe;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 22px */
+
+
+color: #FFFFFF;
+}
+#zx{
+	position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 800px;  
+	top: 475px;
+
+
+font-family: Circe;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 22px */
+
+
+color: #FFFFFF;
+}
+
+#z{
+	position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 800px;  
+	top: 500px;
+
+
+font-family: Circe;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 22px */
+
+
+color: #FFFFFF;
+}
+
+
+
+
+.q{
+	position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 600px;  
+	top: 410px;
+
+font-family: Plumb;
+font-style: normal;
+font-weight: 500;
+font-size: 19px;
+line-height: 130%;
+/* identical to box height, or 39px */
+
+letter-spacing: -0.01em;
+
+color: #FFFFFF;
+}
+#qwert{
+	position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 600px;  
+	top: 445px;
+
+font-family: Circe;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 22px */
+color: #FFFFFF;
+}
+#qwer{
+	position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 600px;  
+	top: 487px;
+
+font-family: Circe;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 22px */
+color: #FFFFFF;
+}
+#qwe{
+	position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 600px;  
+	top: 530px;
+
+font-family: Circe;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 22px */
+color: #FFFFFF;
+}
+#qw{
+	position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 600px;  
+	top: 580px;
+
+font-family: Circe;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 22px */
+color: #FFFFFF;
+}
+#q{
+	position: absolute;
+	width: 100px;
+	height: 22px;
+	left: 600px;  
+	top: 820px;
+
+font-family: Circe;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 22px */
+color: #FFFFFF;
+}
+
+
+
+
+
+
+
